@@ -20,6 +20,7 @@ a{
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
     position: relative;
+
 }
 .images{
     display: flex;
@@ -52,8 +53,7 @@ a{
     position: absolute;
     top: 600px;
     left: 45%;
-    background:rgba(194, 191, 191, 0);
-
+    background:rgba(194, 191, 191, 0);    
 }
 #buttonWrapper > button{
     width: 13px;
@@ -70,7 +70,7 @@ a{
     height: 48px;
     position: absolute;
     top: 410px;
-    left: 100px;
+    left: 8%;
     background-image: url(./images/jiantou2.png);
     outline: none;
     background-color: rgb(242, 242, 242,0);
@@ -82,7 +82,7 @@ a{
     height: 48px;
     position: absolute;
     top: 410px;
-    right: 100px;
+    right: 8%;
     background-image: url(./images/jiantou.png);
     outline: none;
     background-color: rgb(242, 242, 242,0);
